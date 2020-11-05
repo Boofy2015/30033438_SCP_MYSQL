@@ -38,8 +38,8 @@
               <i class="fas fa-times"></i>
             </div>
             
-            <div class="sidebar_info">
-                <div class="sidebar_img">
+            <div class="profile_info">
+                <div class="profile_img">
                   <img src="images/SCP_Logo_Nav.png" alt="Sidebar_Logo">
                 </div>
             </div>
