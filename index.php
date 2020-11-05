@@ -124,7 +124,7 @@
         echo "
         <br>
         <div style='font-family: Playfair Display, serif;'>
-        <main class = 'container-fluid' style='max-width:1300px;'>
+        <main class = 'container-fluid spacing' style='max-width:1300px;'>
         <br>
 
         <h1>{$title}</h1>
